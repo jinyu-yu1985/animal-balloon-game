@@ -316,11 +316,11 @@
             
             // 动物和它们的叫声文件
             const animals = [
-                { emoji: '🐔', name: '公鸡', sound: 'https://github.com/jinyu-yu1985/animal-balloon-game/blob/main/rooster.mp3' },
-                { emoji: '🐱', name: '小猫', sound: 'https://github.com/jinyu-yu1985/animal-balloon-game/blob/main/cat.mp3' },
-                { emoji: '🐶', name: '小狗', sound: 'https://github.com/jinyu-yu1985/animal-balloon-game/blob/main/dog.mp3' },
-                { emoji: '🐮', name: '奶牛', sound: 'https://github.com/jinyu-yu1985/animal-balloon-game/blob/main/cow.mp3' },
-                { emoji: '🐸', name: '青蛙', sound: 'https://github.com/jinyu-yu1985/animal-balloon-game/blob/main/frog.mp3' }
+                { emoji: '🐔', name: '公鸡', sound: 'https://raw.githubusercontent.com/jinyu-yu1985/animal-balloon-game/main/rooster.mp3' },
+                { emoji: '🐱', name: '小猫', sound: 'https://raw.githubusercontent.com/jinyu-yu1985/animal-balloon-game/main/cat.mp3' },
+                { emoji: '🐶', name: '小狗', sound: 'https://raw.githubusercontent.com/jinyu-yu1985/animal-balloon-game/main/dog.mp3' },
+                { emoji: '🐮', name: '奶牛', sound: 'https://raw.githubusercontent.com/jinyu-yu1985/animal-balloon-game/main/cow.mp3' },
+                { emoji: '🐸', name: '青蛙', sound: 'https://raw.githubusercontent.com/jinyu-yu1985/animal-balloon-game/main/frog.mp3' }
             ];
             
             // 音频播放函数
